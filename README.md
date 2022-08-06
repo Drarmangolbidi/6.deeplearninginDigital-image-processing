@@ -9,7 +9,7 @@ In this repository we want to compare model with batch and droupt  and without t
 ![1 without batch and droupt](https://user-images.githubusercontent.com/109248678/183253935-e6144d26-2dde-44cd-9554-fd898093490f.jpg)
 
 <br>
-
+you can download : " 1.mnist_cnn.py " .
 error is hight and is so sos result :
 
 <br>
